@@ -31,7 +31,7 @@ namespace _04._Students
                 studentsList.Add(studentToAdd);
             }
 
-            foreach (var student in studentsList.OrderByDescending(student=>student.Grade))
+            foreach (var student in studentsList.OrderByDescending(student => student.Grade))
             {
                 Student.DisplayStudentInfo(student);
             }
