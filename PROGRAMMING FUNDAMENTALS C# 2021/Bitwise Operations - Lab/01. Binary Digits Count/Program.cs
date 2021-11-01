@@ -8,10 +8,25 @@ namespace _01._Binary_Digits_Count
         static void Main(string[] args)
         {
             int num = int.Parse(Console.ReadLine());
-            char binaryDigit = char.Parse(Console.ReadLine());
-            string numBinaryRepresentation = Convert.ToString(num, 2);
-            Console.WriteLine(numBinaryRepresentation.Where(digit => digit == binaryDigit).ToArray().Length);
+            int binaryDigit = int.Parse(Console.ReadLine());
+            numToBase2Solution(num, binaryDigit);
         }
+
+
+
+        public static void numToBase2Solution(int number, int binaryDigit)
+        {
+            int countOfBinDigit = 0;
+            while (number != 0)
+            {
+                int leftOver = number % 2;
+                if (leftOver == binaryDigit) { countOfBinDigit++; }
+                number /= 2;
+            }
+
+            Console.WriteLine(countOfBinDigit);
+        }
+
     }
 
 
