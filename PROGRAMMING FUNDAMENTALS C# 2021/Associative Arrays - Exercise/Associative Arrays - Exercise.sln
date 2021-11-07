@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{2C90CA19-4C50-422D-A574-C170C4D08190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{2C90CA19-4C50-422D-A574-C170C4D08190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. A Miner Task", "02. A Miner Task\02. A Miner Task.csproj", "{4A0EB68A-1281-4379-BBB2-A1185AC47CFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. A Miner Task", "02. A Miner Task\02. A Miner Task.csproj", "{4A0EB68A-1281-4379-BBB2-A1185AC47CFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Legendary Farming", "03. Legendary Farming\03. Legendary Farming.csproj", "{F64468D3-50D2-4B28-8D17-C64C54CD03A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Orders", "04. Orders\04. Orders.csproj", "{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4A0EB68A-1281-4379-BBB2-A1185AC47CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0EB68A-1281-4379-BBB2-A1185AC47CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0EB68A-1281-4379-BBB2-A1185AC47CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64468D3-50D2-4B28-8D17-C64C54CD03A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64468D3-50D2-4B28-8D17-C64C54CD03A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64468D3-50D2-4B28-8D17-C64C54CD03A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64468D3-50D2-4B28-8D17-C64C54CD03A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
