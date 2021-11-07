@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. A Miner Task", "02. A M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Legendary Farming", "03. Legendary Farming\03. Legendary Farming.csproj", "{F64468D3-50D2-4B28-8D17-C64C54CD03A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Orders", "04. Orders\04. Orders.csproj", "{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Orders", "04. Orders\04. Orders.csproj", "{2BA0CF41-4EEB-4A82-87AA-D68E5C7CD574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SoftUni Parking", "05. SoftUni Parking\05. SoftUni Parking.csproj", "{737C7FCB-DCD3-4F37-BAE3-1AF3F6CDF00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. SoftUni Parking", "05. SoftUni Parking\05. SoftUni Parking.csproj", "{737C7FCB-DCD3-4F37-BAE3-1AF3F6CDF00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Courses", "06. Courses\06. Courses.csproj", "{6FCCF424-FA50-4EB4-B905-8D04EA987303}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{737C7FCB-DCD3-4F37-BAE3-1AF3F6CDF00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737C7FCB-DCD3-4F37-BAE3-1AF3F6CDF00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737C7FCB-DCD3-4F37-BAE3-1AF3F6CDF00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCCF424-FA50-4EB4-B905-8D04EA987303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCCF424-FA50-4EB4-B905-8D04EA987303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCCF424-FA50-4EB4-B905-8D04EA987303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCCF424-FA50-4EB4-B905-8D04EA987303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
