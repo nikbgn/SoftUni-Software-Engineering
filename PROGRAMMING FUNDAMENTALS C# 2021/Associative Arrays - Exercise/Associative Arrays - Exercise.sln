@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. SoftUni Parking", "05. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Courses", "06. Courses\06. Courses.csproj", "{6FCCF424-FA50-4EB4-B905-8D04EA987303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Student Academy", "07. Student Academy\07. Student Academy.csproj", "{78B9677B-FF14-45C1-A90B-485C30E250D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Student Academy", "07. Student Academy\07. Student Academy.csproj", "{78B9677B-FF14-45C1-A90B-485C30E250D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Company Users", "08. Company Users\08. Company Users.csproj", "{238B996A-FBFA-400D-AAEF-B707C890F2A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{78B9677B-FF14-45C1-A90B-485C30E250D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78B9677B-FF14-45C1-A90B-485C30E250D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78B9677B-FF14-45C1-A90B-485C30E250D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238B996A-FBFA-400D-AAEF-B707C890F2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238B996A-FBFA-400D-AAEF-B707C890F2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238B996A-FBFA-400D-AAEF-B707C890F2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238B996A-FBFA-400D-AAEF-B707C890F2A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
