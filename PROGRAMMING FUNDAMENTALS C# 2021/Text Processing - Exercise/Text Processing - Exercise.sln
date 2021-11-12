@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Valid Usernames", "01. Valid Usernames\01. Valid Usernames.csproj", "{5FA76E34-89AF-478F-86EF-0BFB0EE14D7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Character Multiplier", "02. Character Multiplier\02. Character Multiplier.csproj", "{3FE0AD0F-648E-4199-8371-A34BA82D8944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Extract File", "03. Extract File\03. Extract File.csproj", "{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5FA76E34-89AF-478F-86EF-0BFB0EE14D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA76E34-89AF-478F-86EF-0BFB0EE14D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA76E34-89AF-478F-86EF-0BFB0EE14D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE0AD0F-648E-4199-8371-A34BA82D8944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE0AD0F-648E-4199-8371-A34BA82D8944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE0AD0F-648E-4199-8371-A34BA82D8944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE0AD0F-648E-4199-8371-A34BA82D8944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
