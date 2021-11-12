@@ -6,7 +6,6 @@ namespace _01._Valid_Usernames
     {
         static void Main(string[] args)
         {
-            //sh, too_long_username, !lleg@l ch@rs, jeffbutt
             string[] userNames = Console.ReadLine().Split(", ");
             foreach (var userName in userNames)
             {
