@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Character Multiplier", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Extract File", "03. Extract File\03. Extract File.csproj", "{A5CC2603-B5CF-4A23-86CF-8B087AD12C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Caesar Cipher", "04. Caesar Cipher\04. Caesar Cipher.csproj", "{956D7815-A222-4186-80EB-A3B298ECE5D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Caesar Cipher", "04. Caesar Cipher\04. Caesar Cipher.csproj", "{956D7815-A222-4186-80EB-A3B298ECE5D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiply Big Number", "05. Multiply Big Number\05. Multiply Big Number.csproj", "{FBF0CFF5-7B29-47CD-A35A-69085CE041F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Multiply Big Number", "05. Multiply Big Number\05. Multiply Big Number.csproj", "{FBF0CFF5-7B29-47CD-A35A-69085CE041F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Replace Repeating Chars", "06. Replace Repeating Chars\06. Replace Repeating Chars.csproj", "{D588E0D2-ED2B-4F56-BF65-1283687C8443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String Explosion", "07. String Explosion\07. String Explosion.csproj", "{1476D9BF-339A-4939-B71E-FA48F3ED6EC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{FBF0CFF5-7B29-47CD-A35A-69085CE041F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBF0CFF5-7B29-47CD-A35A-69085CE041F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBF0CFF5-7B29-47CD-A35A-69085CE041F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D588E0D2-ED2B-4F56-BF65-1283687C8443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D588E0D2-ED2B-4F56-BF65-1283687C8443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D588E0D2-ED2B-4F56-BF65-1283687C8443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D588E0D2-ED2B-4F56-BF65-1283687C8443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1476D9BF-339A-4939-B71E-FA48F3ED6EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1476D9BF-339A-4939-B71E-FA48F3ED6EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1476D9BF-339A-4939-B71E-FA48F3ED6EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1476D9BF-339A-4939-B71E-FA48F3ED6EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

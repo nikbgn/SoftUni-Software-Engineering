@@ -20,9 +20,9 @@ namespace _05._Multiply_Big_Number
                 return;
             }
 
-            for (int i = input.Length-1; i >= 0; i--)
+            for (int i = input.Length - 1; i >= 0; i--)
             {
-                int currDigit = int.Parse(input[i].ToString());
+                int currDigit = int.Parse(input[i].ToString()); 
                 int product = currDigit * multiplier + reminder;
                 int result = product % 10;
                 reminder = product / 10;
