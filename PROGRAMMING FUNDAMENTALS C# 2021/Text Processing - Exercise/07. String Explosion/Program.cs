@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _07StringExplosion
+namespace _07.StringExplosion
 {
     class Program
     {
