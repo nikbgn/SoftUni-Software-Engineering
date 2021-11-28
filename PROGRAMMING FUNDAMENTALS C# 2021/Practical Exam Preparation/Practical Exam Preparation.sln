@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. World Tour", "01. World
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Mirror Words", "02. Mirror Words\02. Mirror Words.csproj", "{ACD03734-7AA9-4552-9772-29F9DB2F6179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Mirror Words", "02. Mirror Words\02. Mirror Words.csproj", "{ACD03734-7AA9-4552-9772-29F9DB2F6179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Password Reset", "01. Password Reset\01. Password Reset.csproj", "{0C67BD6E-D943-4F62-B405-E5013A37FB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Fancy Barcodes", "02. Fancy Barcodes\02. Fancy Barcodes.csproj", "{6BBF63F8-64CD-46BC-9C75-62C23D583DB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{ACD03734-7AA9-4552-9772-29F9DB2F6179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD03734-7AA9-4552-9772-29F9DB2F6179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD03734-7AA9-4552-9772-29F9DB2F6179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C67BD6E-D943-4F62-B405-E5013A37FB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C67BD6E-D943-4F62-B405-E5013A37FB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C67BD6E-D943-4F62-B405-E5013A37FB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C67BD6E-D943-4F62-B405-E5013A37FB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBF63F8-64CD-46BC-9C75-62C23D583DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBF63F8-64CD-46BC-9C75-62C23D583DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBF63F8-64CD-46BC-9C75-62C23D583DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBF63F8-64CD-46BC-9C75-62C23D583DB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
