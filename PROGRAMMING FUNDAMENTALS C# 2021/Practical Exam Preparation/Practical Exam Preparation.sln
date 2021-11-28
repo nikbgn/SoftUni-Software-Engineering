@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Need for Speed III", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Secret Chat", "01. Secret Chat\01. Secret Chat.csproj", "{BCDFEF1E-F1EA-4A67-B31A-825FEC123ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{8AF848F1-22B2-4C3A-BAFC-2E75425FC733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{8AF848F1-22B2-4C3A-BAFC-2E75425FC733}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Plant Discovery", "03. Plant Discovery\03. Plant Discovery.csproj", "{8D900ABB-56C7-40B0-B53C-4881398BEF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. World Tour", "01. World Tour\01. World Tour.csproj", "{781D5270-1088-41F5-AAAD-8AAF808239C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{8AF848F1-22B2-4C3A-BAFC-2E75425FC733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AF848F1-22B2-4C3A-BAFC-2E75425FC733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AF848F1-22B2-4C3A-BAFC-2E75425FC733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D900ABB-56C7-40B0-B53C-4881398BEF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D900ABB-56C7-40B0-B53C-4881398BEF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D900ABB-56C7-40B0-B53C-4881398BEF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D900ABB-56C7-40B0-B53C-4881398BEF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781D5270-1088-41F5-AAAD-8AAF808239C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781D5270-1088-41F5-AAAD-8AAF808239C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781D5270-1088-41F5-AAAD-8AAF808239C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781D5270-1088-41F5-AAAD-8AAF808239C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2FF15D-A8D4-490D-8F98-A605F5CE0A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
