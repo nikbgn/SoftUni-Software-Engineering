@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+<<<<<<< HEAD:PROGRAMMING FUNDAMENTALS C# 2021/Regular Expressions - Exercise/SoftUni Bar Income/SoftUni Bar Income.csproj
+    <RootNamespace>SoftUni_Bar_Income</RootNamespace>
+=======
+    <RootNamespace>_1._Reverse_Strings</RootNamespace>
+>>>>>>> 0e2a1a200b71acdfefd8319ba34520e2011fedb1:ADVANCED C# 2022/StacksAndQueuesLab/1. Reverse Strings/1. Reverse Strings.csproj
+  </PropertyGroup>
+
+</Project>
