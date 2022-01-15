@@ -12,7 +12,7 @@ namespace _1._Sum_Matrix_Elements
             int[,] matrix = new int[rowsCols[0], rowsCols[1]];
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
-                //7, 1, 3, 3, 2, 1
+                
                 var currentRow = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
                 for (int col = 0; col < currentRow.Length; col++)
                 {
