@@ -1,3 +1,3 @@
 SELECT [FirstName], [LastName]
 FROM [Employees]
-WHERE [JobTitle] CONTAINS('Engineer')
+WHERE [JobTitle]  NOT LIKE '%engineer%'
