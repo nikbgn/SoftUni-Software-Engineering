@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace T02DatabaseFirst
+namespace SoftUni
 {
     public class StartUp
     {

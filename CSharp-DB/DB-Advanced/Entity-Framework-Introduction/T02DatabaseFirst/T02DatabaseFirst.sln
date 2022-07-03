@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02DatabaseFirst", "T02DatabaseFirst\T02DatabaseFirst.csproj", "{83D7BDE6-1D8E-490C-9ACB-8B9585FDA7A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02DatabaseFirst", "T02DatabaseFirst\T02DatabaseFirst.csproj", "{83D7BDE6-1D8E-490C-9ACB-8B9585FDA7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03EmployeesFullInformation", "T03EmployeesFullInformation\T03EmployeesFullInformation.csproj", "{B3766A24-C402-41D2-87BC-3499D9E577C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{83D7BDE6-1D8E-490C-9ACB-8B9585FDA7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D7BDE6-1D8E-490C-9ACB-8B9585FDA7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D7BDE6-1D8E-490C-9ACB-8B9585FDA7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3766A24-C402-41D2-87BC-3499D9E577C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3766A24-C402-41D2-87BC-3499D9E577C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3766A24-C402-41D2-87BC-3499D9E577C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3766A24-C402-41D2-87BC-3499D9E577C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
