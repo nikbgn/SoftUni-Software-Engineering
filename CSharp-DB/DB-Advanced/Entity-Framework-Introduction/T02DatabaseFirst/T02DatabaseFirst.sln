@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03EmployeesFullInformation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04EmployeeswithSalaryOver50K", "T04EmployeeswithSalaryOver50K\T04EmployeeswithSalaryOver50K.csproj", "{88087051-9970-4AD7-A8FB-AED262878514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05EmployeesfromResearchandDev", "T05EmployeesfromResearchandDev\T05EmployeesfromResearchandDev.csproj", "{ECB36523-4651-498E-9303-BF53F95D5F43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05EmployeesfromResearchandDev", "T05EmployeesfromResearchandDev\T05EmployeesfromResearchandDev.csproj", "{ECB36523-4651-498E-9303-BF53F95D5F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06AddNewAddrAndUpdate", "T06AddNewAddrAndUpdate\T06AddNewAddrAndUpdate.csproj", "{953EE1A5-6896-489F-AC09-A35A0C20B1CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ECB36523-4651-498E-9303-BF53F95D5F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECB36523-4651-498E-9303-BF53F95D5F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECB36523-4651-498E-9303-BF53F95D5F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953EE1A5-6896-489F-AC09-A35A0C20B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953EE1A5-6896-489F-AC09-A35A0C20B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953EE1A5-6896-489F-AC09-A35A0C20B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953EE1A5-6896-489F-AC09-A35A0C20B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
