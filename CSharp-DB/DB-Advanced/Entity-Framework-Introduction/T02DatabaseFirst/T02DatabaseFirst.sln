@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10DepartsMoreThan5Employee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11FindLatest10Projects", "T11FindLatest10Projects\T11FindLatest10Projects.csproj", "{BEAC345C-255F-47B0-9D10-658DCA8CE75E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12IncreaseSalaries", "T12IncreaseSalaries\T12IncreaseSalaries.csproj", "{56554305-22A4-4911-9458-14891D30D250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13.FindEmployeesByFirstName", "T13.FindEmployeesByFirstName\T13.FindEmployeesByFirstName.csproj", "{EDA6E25E-8F64-4377-8031-C660EEAAD7EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{BEAC345C-255F-47B0-9D10-658DCA8CE75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAC345C-255F-47B0-9D10-658DCA8CE75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAC345C-255F-47B0-9D10-658DCA8CE75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56554305-22A4-4911-9458-14891D30D250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56554305-22A4-4911-9458-14891D30D250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56554305-22A4-4911-9458-14891D30D250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56554305-22A4-4911-9458-14891D30D250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA6E25E-8F64-4377-8031-C660EEAAD7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA6E25E-8F64-4377-8031-C660EEAAD7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA6E25E-8F64-4377-8031-C660EEAAD7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA6E25E-8F64-4377-8031-C660EEAAD7EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
